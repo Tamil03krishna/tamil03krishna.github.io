@@ -1,1 +1,10 @@
-# my_nextflow_project
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome to My Website</title>
+</head>
+<body>
+  <h1>Hello from Tamil Krishna!</h1>
+  <p>This is my GitHub Pages website.</p>
+</body>
+</html>
